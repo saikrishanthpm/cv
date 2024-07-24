@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1721148774 "/Users/saikrishanth/Documents/GitHub/cv/CV.tex" "CV.pdf" "CV" 1721148775
-  "/Users/saikrishanth/Documents/GitHub/cv/CV.tex" 1721148774 7987 3d26944c5a506ca074634657e66e9106 ""
+["pdflatex"] 1721844560 "/Users/saikrishanth/Documents/GitHub/cv/CV.tex" "CV.pdf" "CV" 1721844560
+  "/Users/saikrishanth/Documents/GitHub/cv/CV.tex" 1721844559 8024 1007b1e27f507c3560332d8d5faa9ca8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -66,9 +66,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664250490 2826442 92d6adc1160b58fe301e8f6748e9b975 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "CV.aux" 1721148775 686 470fdebd29f279999e89f3533b8c7bc8 "pdflatex"
+  "CV.aux" 1721844560 686 470fdebd29f279999e89f3533b8c7bc8 "pdflatex"
   "CV.out" 0 -1 0 "pdflatex"
-  "CV.tex" 1721148774 7987 3d26944c5a506ca074634657e66e9106 ""
+  "CV.tex" 1721844559 8024 1007b1e27f507c3560332d8d5faa9ca8 ""
   (generated)
   "CV.aux"
   "CV.log"
